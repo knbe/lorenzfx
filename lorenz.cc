@@ -8,8 +8,8 @@
 #include <fstream>
 #include <math.h>
 
-#define WIDTH 1000
-#define HEIGHT 800
+#define WIDTH 2000
+#define HEIGHT 2000
 #define N 100
 #define DT 0.015
 
